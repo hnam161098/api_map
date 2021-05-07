@@ -4,98 +4,210 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "T.O.P Coffe",
-                "location": "T.O.P Coffe, Ngõ Xã Đàn 2 182, Quận Đống Đa, Việt Nam"
+                "name": "Rich Coffee & Tea",
+                "location": "Rich Coffee & Tea, Đường Nguyễn Ngọc Vũ 137, Quận Cầu Giấy, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.83206,
-                    21.01302
+                    105.80935,
+                    21.01091
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "M-Decor coffee",
-                "location": "M-Decor coffee, Ngách 95/3 Phố Hoàng Cầu, Quận Đống Đa, Việt Nam"
+                "name": "DC Coffee",
+                "location": "DC Coffee, Đường Nguyễn Ngọc Vũ 145, Quận Cầu Giấy, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82319,
-                    21.01603
+                    105.80841,
+                    21.01166
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Aha Cafe",
-                "location": "Aha Cafe, Phố Hoàng Cầu, Quận Đống Đa, Việt Nam"
+                "name": "Hiền Cafe",
+                "location": "Hiền Cafe, Đường Nguyễn Ngọc Vũ 163, Quận Cầu Giấy, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82284,
-                    21.01609
+                    105.80813,
+                    21.0119
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Kelly Cafe",
-                "location": "Kelly Cafe, Phố Hoàng Cầu, Quận Đống Đa, Việt Nam"
+                "name": "Nighteen Coffee - tầng 19A - 169 Nguyễn Ngọc Vũ",
+                "location": "Nighteen Coffee - tầng 19A - 169 Nguyễn Ngọc Vũ, Đường Nguyễn Ngọc Vũ 167, Quận Cầu Giấy, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82323,
-                    21.01638
+                    105.80807,
+                    21.01194
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Cong caphe 101 Hoàng Cầu, Hà nội",
-                "location": "Cong caphe 101 Hoàng Cầu, Hà nội, Phố Hoàng Cầu, Quận Đống Đa, Việt Nam"
+                "name": "Nic Happy",
+                "location": "Nic Happy, Ngõ 167 Đường Nguyễn Ngọc Vũ, Quận Cầu Giấy, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82268,
-                    21.01634
+                    105.80807,
+                    21.01194
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Black & Green coffee",
-                "location": "Black & Green coffee, Phố Võ Văn Dũng 10, Quận Đống Đa, Việt Nam"
+                "name": "Nhất Long Café",
+                "location": "Nhất Long Café, Phố Hoàng Ngân 102, Quận Cầu Giấy, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82355,
-                    21.01604
+                    105.80708,
+                    21.00916
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Bốt Cà phê",
-                "location": "Bốt Cà phê, Ngõ 18 Phố Võ Văn Dũng 18B, Quận Đống Đa, Việt Nam"
+                "name": "Cà Phê Hạ Trắng",
+                "location": "Cà Phê Hạ Trắng, Đường Nguyễn Ngọc Vũ 129, Quận Cầu Giấy, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82355,
-                    21.01567
+                    105.81,
+                    21.0106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mộc 129 cafe & wine",
+                "location": "Mộc 129 cafe & wine, Đường Nguyễn Ngọc Vũ 129, Quận Cầu Giấy, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81,
+                    21.0106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pallet Cafe",
+                "location": "Pallet Cafe, Phố Hoàng Ngân, Quận Cầu Giấy, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80713,
+                    21.00907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trung Nguyen Coffee",
+                "location": "Trung Nguyen Coffee, Ngõ 94 Phố Hoàng Ngân, Quận Cầu Giấy, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80749,
+                    21.00883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nguyên Mộc Coffee & Fast Food",
+                "location": "Nguyên Mộc Coffee & Fast Food, Ngõ 189 Đường Nguyễn Ngọc Vũ, Quận Cầu Giấy, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80638,
+                    21.01085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Số 2 ngõ 86 Hoàng Ngân",
+                "location": "Số 2 ngõ 86 Hoàng Ngân, Phố Hoàng Ngân 86, Quận Cầu Giấy, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80812,
+                    21.00847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe L'Italiano - Nguyễn Ngọc Vũ",
+                "location": "Cafe L'Italiano - Nguyễn Ngọc Vũ, Đường Nguyễn Ngọc Vũ 169, Quận Cầu Giấy, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80771,
+                    21.01222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Quán Café 86",
+                "location": "Quán Café 86, Ngõ 171 Đường Nguyễn Ngọc Vũ, Quận Cầu Giấy, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80616,
+                    21.01087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ashtray Coffee",
+                "location": "Ashtray Coffee, Ngõ 170 Phố Hoàng Ngân, Quận Cầu Giấy, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80606,
+                    21.01066
                 ]
             }
         },
@@ -103,181 +215,209 @@
             "type": "Feature",
             "properties": {
                 "name": "Quán Cafe",
-                "location": "Quán Cafe, Ngõ 56 Phố Trần Quang Diệu, Quận Đống Đa, Việt Nam"
+                "location": "Quán Cafe, Ngách 53/2 Đường Nguyễn Ngọc Vũ, Quận Cầu Giấy, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82343,
-                    21.01549
+                    105.81054,
+                    21.00971
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Cafe MR Sạch",
-                "location": "Cafe MR Sạch, Phố Võ Văn Dũng 18, Quận Đống Đa, Việt Nam"
+                "name": "19 Tố Hữu",
+                "location": "19 Tố Hữu, Đường Lê Văn Lương 10, Quận Cầu Giấy, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82367,
-                    21.01598
+                    105.80901,
+                    21.0082
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Cong Ca Phe",
-                "location": "Cong Ca Phe, Phố Hoàng Cầu, Quận Đống Đa, Việt Nam"
+                "name": "Cafe Điểm Hẹn",
+                "location": "Cafe Điểm Hẹn, Phố Hoàng Ngân 170, Quận Cầu Giấy, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82267,
-                    21.01649
+                    105.80579,
+                    21.01004
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Hali Cafe",
-                "location": "Hali Cafe, Ngõ 18 Phố Võ Văn Dũng, Quận Đống Đa, Việt Nam"
+                "name": "Coffee 530",
+                "location": "Coffee 530, Đường Láng 530, Quận Đống Đa, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82373,
-                    21.01592
+                    105.81077,
+                    21.01132
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Quán Cafe",
-                "location": "Quán Cafe, Ngách 56/25 Phố Trần Quang Diệu, Quận Đống Đa, Việt Nam"
+                "name": "Cafe Xưa",
+                "location": "Cafe Xưa, Ngõ 25 Phố Vũ Ngọc Phan, Quận Đống Đa, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.823,
-                    21.01527
+                    105.80972,
+                    21.01267
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Cafe Cỏ",
-                "location": "Cafe Cỏ, Ngõ 73 Phố Hoàng Cầu, Quận Đống Đa, Việt Nam"
+                "name": "Cà Phê Trung Nguyên",
+                "location": "Cà Phê Trung Nguyên, Đường Nguyễn Ngọc Vũ 83, Quận Cầu Giấy, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82382,
-                    21.01652
+                    105.81119,
+                    21.00986
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Cafe Quỳnh",
-                "location": "Cafe Quỳnh, Ngõ 56 Phố Trần Quang Diệu, Quận Đống Đa, Việt Nam"
+                "name": "Toco Toco",
+                "location": "Toco Toco, Phố Láng Hạ 126, Quận Đống Đa, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82379,
-                    21.0153
+                    105.81116,
+                    21.0112
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Dzyn Coffee",
-                "location": "Dzyn Coffee, Ngõ 84 Phố Trần Quang Diệu, Quận Đống Đa, Việt Nam"
+                "name": "Lily's Club",
+                "location": "Lily's Club, Đường Lê Văn Lương 27, Quận Thanh Xuân, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82303,
-                    21.0149
+                    105.80797,
+                    21.00744
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "ĐA Coffee 91 Hoàng Cầu",
-                "location": "ĐA Coffee 91 Hoàng Cầu, Phố Hoàng Cầu, Quận Đống Đa, Việt Nam"
+                "name": "Bà Vân Quán - TTTM Hanoi Centerpoint - 27 Lê Văn Lương, T.Xuân, Hà Nội",
+                "location": "Bà Vân Quán - TTTM Hanoi Centerpoint - 27 Lê Văn Lương, T.Xuân, Hà Nội, Đường Lê Văn Lương 27, Quận Thanh Xuân, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82394,
-                    21.01659
+                    105.80797,
+                    21.00744
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Cafe Hat",
-                "location": "Cafe Hat, Ngách 26/7 Phố Võ Văn Dũng, Quận Đống Đa, Việt Nam"
+                "name": "Cafe Linh",
+                "location": "Cafe Linh, Ngõ Láng Trung, Quận Đống Đa, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82412,
-                    21.01545
+                    105.80937,
+                    21.01314
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Thanh Sang Cafe",
-                "location": "Thanh Sang Cafe, Ngõ 26 Phố Võ Văn Dũng, Quận Đống Đa, Việt Nam"
+                "name": "Cafe Cao",
+                "location": "Cafe Cao, Phố Hoàng Ngân 141, Quận Cầu Giấy, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82333,
-                    21.01482
+                    105.80486,
+                    21.00988
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Bống Cafe",
-                "location": "Bống Cafe, Ngõ 26 Phố Võ Văn Dũng, Quận Đống Đa, Việt Nam"
+                "name": "Zen Cafe",
+                "location": "Zen Cafe, Ngõ 90 Phố Láng Hạ, Quận Đống Đa, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82331,
-                    21.01481
+                    105.81126,
+                    21.01193
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "My Coffee",
-                "location": "My Coffee, Phố Hoàng Cầu, Quận Đống Đa, Việt Nam"
+                "name": "Cafe Deli",
+                "location": "Cafe Deli, Phố Láng Hạ 153, Quận Đống Đa, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82176,
-                    21.01635
+                    105.81156,
+                    21.01136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe Mộc",
+                "location": "Cafe Mộc, Phố Nguyễn Thị Định 87, Quận Cầu Giấy, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80493,
+                    21.00937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Quán Cafe Phin",
+                "location": "Quán Cafe Phin, Phố Nguyễn Thị Định 87, Quận Cầu Giấy, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80493,
+                    21.00937
                 ]
             }
         },
@@ -285,419 +425,279 @@
             "type": "Feature",
             "properties": {
                 "name": "Royaltea",
-                "location": "Royaltea, Phố Trần Quang Diệu 46, Quận Đống Đa, Việt Nam"
+                "location": "Royaltea, Ngõ 90 Phố Láng Hạ, Quận Đống Đa, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82427,
-                    21.0153
+                    105.81142,
+                    21.01183
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Cafe 66",
-                "location": "Cafe 66, Phố Hoàng Cầu, Quận Đống Đa, Việt Nam"
+                "name": "Quán Cafe",
+                "location": "Quán Cafe, Ngõ 538 Đường Láng 11, Quận Đống Đa, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82161,
-                    21.01633
+                    105.81085,
+                    21.01261
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Tibeo Coffee",
-                "location": "Tibeo Coffee, Phố Trần Quang Diệu 58, Quận Đống Đa, Việt Nam"
+                "name": "Coffee 106",
+                "location": "Coffee 106, Phố Nguyễn Thị Định, Quận Cầu Giấy, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82411,
-                    21.01505
+                    105.80471,
+                    21.01043
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Bro Coffee",
-                "location": "Bro Coffee, Phố Trần Quang Diệu 58, Quận Đống Đa, Việt Nam"
+                "name": "Umove Cafe",
+                "location": "Umove Cafe, Phố Nguyễn Thị Định 18, Quận Cầu Giấy, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82411,
-                    21.01505
+                    105.80471,
+                    21.01043
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Cafe Mít",
-                "location": "Cafe Mít, Ngõ 67 Phố Hoàng Cầu, Quận Đống Đa, Việt Nam"
+                "name": "Tiamo Coffee",
+                "location": "Tiamo Coffee, Phố Hoàng Ngân 93, Quận Thanh Xuân, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82434,
-                    21.01653
+                    105.80972,
+                    21.00732
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "English 4U Coffee",
-                "location": "English 4U Coffee, Phố Trần Quang Diệu 55, Quận Đống Đa, Việt Nam"
+                "name": "Hope Coffee",
+                "location": "Hope Coffee, Phố Hoàng Ngân 93, Quận Thanh Xuân, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82432,
-                    21.01524
+                    105.80972,
+                    21.00732
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Cafe 9",
-                "location": "Cafe 9, Phố Trần Quang Diệu 61, Quận Đống Đa, Việt Nam"
+                "name": "Cafe 82",
+                "location": "Cafe 82, Ngõ 90 Láng Hạ, Quận Đống Đa, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82424,
-                    21.01511
+                    105.81134,
+                    21.01207
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Lemon Tea & Coffee",
-                "location": "Lemon Tea & Coffee, Phố Trần Quang Diệu 61, Quận Đống Đa, Việt Nam"
+                "name": "Cafe Luu Viet",
+                "location": "Cafe Luu Viet, Phố Nguyễn Thị Định A12, Quận Cầu Giấy, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82424,
-                    21.01511
+                    105.80471,
+                    21.00975
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Cafe 61",
-                "location": "Cafe 61, Phố Trần Quang Diệu 61, Quận Đống Đa, Việt Nam"
+                "name": "Black Gold Cafe",
+                "location": "Black Gold Cafe, Đường Nguyễn Ngọc Vũ, Quận Cầu Giấy, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82424,
-                    21.01511
+                    105.81174,
+                    21.00946
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Cafe Moon",
-                "location": "Cafe Moon, Phố Trần Quang Diệu 62, Quận Đống Đa, Việt Nam"
+                "name": "Cà Phê Blue Bon",
+                "location": "Cà Phê Blue Bon, Phố Nguyễn Thị Định, Quận Cầu Giấy, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82402,
-                    21.01488
+                    105.8047,
+                    21.00958
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Vô Ưu Trà Quán",
-                "location": "Vô Ưu Trà Quán, Phố Trần Quang Diệu 68, Quận Đống Đa, Việt Nam"
+                "name": "Minh Khai Bakery-Bánh Pháp & Cafe",
+                "location": "Minh Khai Bakery-Bánh Pháp & Cafe, Phố Nguyễn Thị Định 8A, Quận Cầu Giấy, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82395,
-                    21.01478
+                    105.8047,
+                    21.00955
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Cafe Xã Hội",
-                "location": "Cafe Xã Hội, Phố Trần Quang Diệu, Quận Đống Đa, Việt Nam"
+                "name": "Cafe Bách Hợp",
+                "location": "Cafe Bách Hợp, Phố Nguyễn Thị Định 101, Quận Cầu Giấy, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82365,
-                    21.01459
+                    105.80465,
+                    21.01098
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Cà Phê Trung Nguyên Khơi Nguồn Sáng",
-                "location": "Cà Phê Trung Nguyên Khơi Nguồn Sáng, Phố Trần Quang Diệu 70, Quận Đống Đa, Việt Nam"
+                "name": "1945 Coffee",
+                "location": "1945 Coffee, Phố Nguyễn Thị Định 10, Quận Cầu Giấy, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82382,
-                    21.01466
+                    105.80462,
+                    21.00979
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Tmore",
-                "location": "Tmore, Phố Trần Quang Diệu 70, Quận Đống Đa, Việt Nam"
+                "name": "Cafe Domino",
+                "location": "Cafe Domino, Ngõ 151 Phố Láng Hạ, Quận Đống Đa, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82382,
-                    21.01466
+                    105.81183,
+                    21.01123
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Drew Coffee",
-                "location": "Drew Coffee, Phố Trần Quang Diệu 41A, Quận Đống Đa, Việt Nam"
+                "name": "Cafe Audio 86",
+                "location": "Cafe Audio 86, Phố Láng Hạ 90, Quận Đống Đa, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82458,
-                    21.01561
+                    105.81163,
+                    21.01183
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Cafe Mozart",
-                "location": "Cafe Mozart, Phố Trần Quang Diệu 41A, Quận Đống Đa, Việt Nam"
+                "name": "Red Coffee",
+                "location": "Red Coffee, Phố Láng Hạ 90, Quận Đống Đa, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82458,
-                    21.01561
+                    105.81163,
+                    21.01183
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "THƠM Café",
-                "location": "THƠM Café, Phố Trần Quang Diệu 82, Quận Đống Đa, Việt Nam"
+                "name": "Cafe Nhân",
+                "location": "Cafe Nhân, Phố Nguyễn Thị Định 7, Quận Cầu Giấy, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82367,
-                    21.01453
+                    105.8047,
+                    21.00919
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Cần Tăng Dân Số",
-                "location": "Cần Tăng Dân Số, Phố Trần Quang Diệu 73, Quận Đống Đa, Việt Nam"
+                "name": "Cafe Bất Động Sản Quang Hòa",
+                "location": "Cafe Bất Động Sản Quang Hòa, Phố Nguyễn Thị Định 6, Quận Cầu Giấy, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82396,
-                    21.01466
+                    105.8047,
+                    21.00917
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Best Coffee",
-                "location": "Best Coffee, Phố Trần Quang Diệu 73, Quận Đống Đa, Việt Nam"
+                "name": "Cafe Single",
+                "location": "Cafe Single, Phố Nguyễn Thị Định 5, Quận Cầu Giấy, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82396,
-                    21.01466
+                    105.8047,
+                    21.00914
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Cong Ca Phe",
-                "location": "Cong Ca Phe, Phố Hoàng Cầu, Quận Đống Đa, Việt Nam"
+                "name": "Thỏ Cafe",
+                "location": "Thỏ Cafe, Đường Nguyễn Ngọc Vũ 217, Quận Cầu Giấy, Việt Nam"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82379,
-                    21.01734
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cafe Cảm Xúc",
-                "location": "Cafe Cảm Xúc, Ngõ 25 Phố Võ Văn Dũng, Quận Đống Đa, Việt Nam"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    105.82451,
-                    21.0167
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Kim Liên Làng Cắt Tóc Nam",
-                "location": "Kim Liên Làng Cắt Tóc Nam, Phố Trần Quang Diệu 86, Quận Đống Đa, Việt Nam"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    105.82356,
-                    21.01444
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "The Coffee House",
-                "location": "The Coffee House, Phố Hoàng Cầu, Quận Đống Đa, Việt Nam"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    105.82128,
-                    21.01604
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Tungbook Café",
-                "location": "Tungbook Café, Phố Trần Quang Diệu 75, Quận Đống Đa, Việt Nam"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    105.82372,
-                    21.01447
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cafe Nghĩa",
-                "location": "Cafe Nghĩa, Ngõ 25 Phố Võ Văn Dũng, Quận Đống Đa, Việt Nam"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    105.82454,
-                    21.01675
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Amourtea",
-                "location": "Amourtea, Phố Trần Quang Diệu, Quận Đống Đa, Việt Nam"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    105.82479,
-                    21.01592
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cafe Anh Vĩnh",
-                "location": "Cafe Anh Vĩnh, Ngõ 61 Phố Hoàng Cầu, Quận Đống Đa, Việt Nam"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    105.82462,
-                    21.01685
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Hanoi Blues Corner-Coffee Shop",
-                "location": "Hanoi Blues Corner-Coffee Shop, Ngõ 61 Phố Hoàng Cầu, Quận Đống Đa, Việt Nam"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    105.82462,
-                    21.01685
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Nhà Hàng Maison",
-                "location": "Nhà Hàng Maison, Phố Hoàng Cầu, Quận Đống Đa, Việt Nam"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    105.8212,
-                    21.01643
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cafe HBC",
-                "location": "Cafe HBC, Ngõ 61 Phố Hoàng Cầu, Quận Đống Đa, Việt Nam"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    105.82468,
-                    21.01682
+                    105.80618,
+                    21.0134
                 ]
             }
         }

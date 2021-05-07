@@ -11,7 +11,7 @@ def get_token(token_file):
 def map(url, file):
     param = {
         "apiKey": get_token(file),
-        "in": "circle:21.01035, 105.80826;r=5000",
+        "in": "circle:21.01035,105.80826;r=5000",
         "q": 'coffe',
         "limit": 50,
     }
@@ -20,6 +20,7 @@ def map(url, file):
     result = {"type": "FeatureCollection",
               "features": []
               }
+
     for item in data["items"]:
         lat = item["position"]["lat"]
         lng = item["position"]["lng"]
