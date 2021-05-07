@@ -1,0 +1,705 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "T.O.P Coffe",
+                "location": "T.O.P Coffe, Ngõ Xã Đàn 2 182, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.83206,
+                    21.01302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "M-Decor coffee",
+                "location": "M-Decor coffee, Ngách 95/3 Phố Hoàng Cầu, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82319,
+                    21.01603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aha Cafe",
+                "location": "Aha Cafe, Phố Hoàng Cầu, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82284,
+                    21.01609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kelly Cafe",
+                "location": "Kelly Cafe, Phố Hoàng Cầu, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82323,
+                    21.01638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cong caphe 101 Hoàng Cầu, Hà nội",
+                "location": "Cong caphe 101 Hoàng Cầu, Hà nội, Phố Hoàng Cầu, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82268,
+                    21.01634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Black & Green coffee",
+                "location": "Black & Green coffee, Phố Võ Văn Dũng 10, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82355,
+                    21.01604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bốt Cà phê",
+                "location": "Bốt Cà phê, Ngõ 18 Phố Võ Văn Dũng 18B, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82355,
+                    21.01567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Quán Cafe",
+                "location": "Quán Cafe, Ngõ 56 Phố Trần Quang Diệu, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82343,
+                    21.01549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe MR Sạch",
+                "location": "Cafe MR Sạch, Phố Võ Văn Dũng 18, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82367,
+                    21.01598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cong Ca Phe",
+                "location": "Cong Ca Phe, Phố Hoàng Cầu, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82267,
+                    21.01649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hali Cafe",
+                "location": "Hali Cafe, Ngõ 18 Phố Võ Văn Dũng, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82373,
+                    21.01592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Quán Cafe",
+                "location": "Quán Cafe, Ngách 56/25 Phố Trần Quang Diệu, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.823,
+                    21.01527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe Cỏ",
+                "location": "Cafe Cỏ, Ngõ 73 Phố Hoàng Cầu, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82382,
+                    21.01652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe Quỳnh",
+                "location": "Cafe Quỳnh, Ngõ 56 Phố Trần Quang Diệu, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82379,
+                    21.0153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dzyn Coffee",
+                "location": "Dzyn Coffee, Ngõ 84 Phố Trần Quang Diệu, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82303,
+                    21.0149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ĐA Coffee 91 Hoàng Cầu",
+                "location": "ĐA Coffee 91 Hoàng Cầu, Phố Hoàng Cầu, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82394,
+                    21.01659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe Hat",
+                "location": "Cafe Hat, Ngách 26/7 Phố Võ Văn Dũng, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82412,
+                    21.01545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Thanh Sang Cafe",
+                "location": "Thanh Sang Cafe, Ngõ 26 Phố Võ Văn Dũng, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82333,
+                    21.01482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bống Cafe",
+                "location": "Bống Cafe, Ngõ 26 Phố Võ Văn Dũng, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82331,
+                    21.01481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "My Coffee",
+                "location": "My Coffee, Phố Hoàng Cầu, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82176,
+                    21.01635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Royaltea",
+                "location": "Royaltea, Phố Trần Quang Diệu 46, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82427,
+                    21.0153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe 66",
+                "location": "Cafe 66, Phố Hoàng Cầu, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82161,
+                    21.01633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tibeo Coffee",
+                "location": "Tibeo Coffee, Phố Trần Quang Diệu 58, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82411,
+                    21.01505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bro Coffee",
+                "location": "Bro Coffee, Phố Trần Quang Diệu 58, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82411,
+                    21.01505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe Mít",
+                "location": "Cafe Mít, Ngõ 67 Phố Hoàng Cầu, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82434,
+                    21.01653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "English 4U Coffee",
+                "location": "English 4U Coffee, Phố Trần Quang Diệu 55, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82432,
+                    21.01524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe 9",
+                "location": "Cafe 9, Phố Trần Quang Diệu 61, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82424,
+                    21.01511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lemon Tea & Coffee",
+                "location": "Lemon Tea & Coffee, Phố Trần Quang Diệu 61, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82424,
+                    21.01511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe 61",
+                "location": "Cafe 61, Phố Trần Quang Diệu 61, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82424,
+                    21.01511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe Moon",
+                "location": "Cafe Moon, Phố Trần Quang Diệu 62, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82402,
+                    21.01488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vô Ưu Trà Quán",
+                "location": "Vô Ưu Trà Quán, Phố Trần Quang Diệu 68, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82395,
+                    21.01478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe Xã Hội",
+                "location": "Cafe Xã Hội, Phố Trần Quang Diệu, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82365,
+                    21.01459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cà Phê Trung Nguyên Khơi Nguồn Sáng",
+                "location": "Cà Phê Trung Nguyên Khơi Nguồn Sáng, Phố Trần Quang Diệu 70, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82382,
+                    21.01466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tmore",
+                "location": "Tmore, Phố Trần Quang Diệu 70, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82382,
+                    21.01466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Drew Coffee",
+                "location": "Drew Coffee, Phố Trần Quang Diệu 41A, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82458,
+                    21.01561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe Mozart",
+                "location": "Cafe Mozart, Phố Trần Quang Diệu 41A, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82458,
+                    21.01561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "THƠM Café",
+                "location": "THƠM Café, Phố Trần Quang Diệu 82, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82367,
+                    21.01453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cần Tăng Dân Số",
+                "location": "Cần Tăng Dân Số, Phố Trần Quang Diệu 73, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82396,
+                    21.01466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Best Coffee",
+                "location": "Best Coffee, Phố Trần Quang Diệu 73, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82396,
+                    21.01466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cong Ca Phe",
+                "location": "Cong Ca Phe, Phố Hoàng Cầu, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82379,
+                    21.01734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe Cảm Xúc",
+                "location": "Cafe Cảm Xúc, Ngõ 25 Phố Võ Văn Dũng, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82451,
+                    21.0167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kim Liên Làng Cắt Tóc Nam",
+                "location": "Kim Liên Làng Cắt Tóc Nam, Phố Trần Quang Diệu 86, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82356,
+                    21.01444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Coffee House",
+                "location": "The Coffee House, Phố Hoàng Cầu, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82128,
+                    21.01604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tungbook Café",
+                "location": "Tungbook Café, Phố Trần Quang Diệu 75, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82372,
+                    21.01447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe Nghĩa",
+                "location": "Cafe Nghĩa, Ngõ 25 Phố Võ Văn Dũng, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82454,
+                    21.01675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Amourtea",
+                "location": "Amourtea, Phố Trần Quang Diệu, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82479,
+                    21.01592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe Anh Vĩnh",
+                "location": "Cafe Anh Vĩnh, Ngõ 61 Phố Hoàng Cầu, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82462,
+                    21.01685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hanoi Blues Corner-Coffee Shop",
+                "location": "Hanoi Blues Corner-Coffee Shop, Ngõ 61 Phố Hoàng Cầu, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82462,
+                    21.01685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Hàng Maison",
+                "location": "Nhà Hàng Maison, Phố Hoàng Cầu, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8212,
+                    21.01643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe HBC",
+                "location": "Cafe HBC, Ngõ 61 Phố Hoàng Cầu, Quận Đống Đa, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82468,
+                    21.01682
+                ]
+            }
+        }
+    ]
+}
